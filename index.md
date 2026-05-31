@@ -7,7 +7,8 @@ title: Home
 
 # Sravan Kumar Janamaddi
 **Principal Software Engineer @ MathWorks**  
-*M.S. in Computer Science — The University of Texas at Austin*[^1]
+*M.S. in Computer Science — The University of Texas at Austin*
+*B.Tech in Electronics and Communication Engineering — Vellore Institute of Technology, Vellore*
 
 [🔗 LinkedIn Profile](https://www.linkedin.com/in/{{ site.linkedin_username }}) | [🏅 Merit Academic Pages](https://meritpages.com/{{ site.merit_username }}) | [✉️ Contact Email](mailto:{{ site.email }})
 
