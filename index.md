@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+google-site-verification: <meta name="google-site-verification" content="7LIn9uTnCPJsx6NvElSG_TicsskRV54qbKojD6tgbPM" />
 ---
 
 [🏠 Home](/) | [💼 Professional Summary](/professional-summary/) | [📚 Reading](/reading/) | [📝 Publications](/publications/)
