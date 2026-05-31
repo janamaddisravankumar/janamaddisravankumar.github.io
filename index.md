@@ -11,6 +11,12 @@ title: Home
 
 ---
 
+## Explore
+- [Reading & Citations](/reading/)
+- [Publications & Repositories](/publications/)
+
+---
+
 ## Professional Summary
 {{ site.description }}[cite: 1]
 
