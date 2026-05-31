@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+[🏠 Home](/) | [📚 Reading](/reading/) | [📝 Publications](/publications/)
+
 # Sravan Kumar Janamaddi
 **Principal Software Engineer @ MathWorks**  
 *M.S. in Computer Science — The University of Texas at Austin*[cite: 1]

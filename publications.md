@@ -4,6 +4,8 @@ title: Publications & Repositories
 permalink: /publications/
 ---
 
+[🏠 Home](/) | [📚 Reading](/reading/) | [📝 Publications](/publications/)
+
 # Publications & Code Repositories
 
 This page collects my technical publications, project links, and repositories that showcase my work.
@@ -13,22 +15,19 @@ This page collects my technical publications, project links, and repositories th
 - **C Code Optimizations on SHARC ADSP**
   - [Download PDF](/media/C-Code-Optimization-on-SHARC-ADSP-21489-Whitepaper.pdf)
 
-- **Research and technical writing**
-  - If you have PDF versions of your publications, place them in the repository and link them here.
-  - Example: [Download a sample PDF](https://example.com/sample-publication.pdf)
 
 ## GitHub Repositories
 
 - **My GitHub profile**
   - [janamaddisravankumar](https://github.com/janamaddisravankumar)
 
-- **Sample repository**
-  - Add your specific project repos below with direct links to GitHub.
 
-## How to add PDFs
+<!--
+> ## How to add PDFs
 
 1. Add PDF files to the `media` folder.
 2. Link them in this section like this:
    - `[My Paper Title](/media/my-paper.pdf)`
 
 > Place your publication files in `media`, then update the links above with the actual filenames. Feel free to add more entries under Publications and Papers.
+-->
